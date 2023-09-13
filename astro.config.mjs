@@ -15,7 +15,7 @@ export default defineConfig({
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
+						{ label: 'How Curly Braces are Used', link: '/guides/curly-braces-and-javascript-expressions/' },
 					],
 				},
 				{
